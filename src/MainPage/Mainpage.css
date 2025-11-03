@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+
+@media screen and (max-width: 977px) {
+  .mobiles {
+    width: 83vw;
+    text-align: justify;
+  }
+  .footeres {
+    align-items: center;
+  }
+  .itemses {
+    justify-content: center;
+  }
+}
